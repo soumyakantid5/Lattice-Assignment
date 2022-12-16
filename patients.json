@@ -1,0 +1,481 @@
+[{
+  "_id": {
+    "$oid": "639be7a87f2d56c521d22593"
+  },
+  "name": "Anish Kumar",
+  "address": "Kolkata West BEngal",
+  "email": "Anish@gmail.com",
+  "phone": "9046602541",
+  "password": "12345678",
+  "photo": "https://classroom-training-bucket.s3.ap-south-1.amazonaws.com/Lattice/Capture1.PNG",
+  "psychiatristId": {
+    "$oid": "639be65114492c23c997d552"
+  },
+  "hospitalId": 1,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671161768088"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671161768088"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "639be7bf7f2d56c521d22597"
+  },
+  "name": "Anisha Kumari",
+  "address": "Kolkata West BEngal",
+  "email": "Anisha@gmail.com",
+  "phone": "9046602542",
+  "password": "12345678",
+  "photo": "https://classroom-training-bucket.s3.ap-south-1.amazonaws.com/Lattice/Capture1.PNG",
+  "psychiatristId": {
+    "$oid": "639be65114492c23c997d552"
+  },
+  "hospitalId": 1,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671161791700"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671161791700"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "639be82aa5bdcc6ab667a985"
+  },
+  "name": "Soumya Dutta",
+  "address": "Kolkata West BEngal",
+  "email": "skd123@gmail.com",
+  "phone": "9046602543",
+  "password": "12345678",
+  "photo": "https://classroom-training-bucket.s3.ap-south-1.amazonaws.com/Lattice/Capture1.PNG",
+  "psychiatristId": {
+    "$oid": "639be64314492c23c997d54f"
+  },
+  "hospitalId": 1,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671161898939"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671161898939"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "639be849a5bdcc6ab667a989"
+  },
+  "name": "Soumya Das",
+  "address": "Kolkata West BEngal",
+  "email": "skd123s@gmail.com",
+  "phone": "9046602544",
+  "password": "12345678",
+  "photo": "https://classroom-training-bucket.s3.ap-south-1.amazonaws.com/Lattice/Capture1.PNG",
+  "psychiatristId": {
+    "$oid": "639be63014492c23c997d54c"
+  },
+  "hospitalId": 1,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671161929540"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671161929540"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "639be864a5bdcc6ab667a98d"
+  },
+  "name": "Sourav Das",
+  "address": "Kolkata West BEngal",
+  "email": "skd123ss@gmail.com",
+  "phone": "9046602545",
+  "password": "12345678",
+  "photo": "https://classroom-training-bucket.s3.ap-south-1.amazonaws.com/Lattice/Capture1.PNG",
+  "psychiatristId": {
+    "$oid": "639be62914492c23c997d549"
+  },
+  "hospitalId": 1,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671161956983"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671161956983"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "639be890a5bdcc6ab667a991"
+  },
+  "name": "Sourav Dasgupta",
+  "address": "Kolkata West BEngal",
+  "email": "skd12334ss@gmail.com",
+  "phone": "9046602546",
+  "password": "12345678",
+  "photo": "https://classroom-training-bucket.s3.ap-south-1.amazonaws.com/Lattice/Capture1.PNG",
+  "psychiatristId": {
+    "$oid": "639be62014492c23c997d546"
+  },
+  "hospitalId": 1,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671162000159"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671162000159"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "639bea31976e74e283cd786c"
+  },
+  "name": "Sourav Dasgupta",
+  "address": "Kolkata West BEngal",
+  "email": "skd12334ss@gmail.com",
+  "phone": "9046602546",
+  "password": "12345678",
+  "photo": "https://classroom-training-bucket.s3.ap-south-1.amazonaws.com/Lattice/Capture1.PNG",
+  "psychiatristId": {
+    "$oid": "639be61114492c23c997d543"
+  },
+  "hospitalId": 2,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671162417149"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671162417149"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "639bea46976e74e283cd7870"
+  },
+  "name": "Sourav Das",
+  "address": "Kolkata West BEngal",
+  "email": "skd123ss@gmail.com",
+  "phone": "9046602543",
+  "password": "12345678",
+  "photo": "https://classroom-training-bucket.s3.ap-south-1.amazonaws.com/Lattice/Capture1.PNG",
+  "psychiatristId": {
+    "$oid": "639be61114492c23c997d543"
+  },
+  "hospitalId": 2,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671162438684"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671162438684"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "639bea64976e74e283cd7874"
+  },
+  "name": "Soumya Das",
+  "address": "Kolkata West BEngal",
+  "email": "skd123@gmail.com",
+  "phone": "9046602543",
+  "password": "12345678",
+  "photo": "https://classroom-training-bucket.s3.ap-south-1.amazonaws.com/Lattice/Capture1.PNG",
+  "psychiatristId": {
+    "$oid": "639be61114492c23c997d543"
+  },
+  "hospitalId": 2,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671162468637"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671162468637"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "639bebebc716c139f7418f69"
+  },
+  "name": "Soumya Dutta",
+  "address": "Kolkata West BEngal",
+  "email": "skd123@gmail.com",
+  "phone": "9046402541",
+  "password": "12345678",
+  "photo": "https://classroom-training-bucket.s3.ap-south-1.amazonaws.com/Lattice/Capture1.PNG",
+  "psychiatristId": {
+    "$oid": "639be5fe14492c23c997d540"
+  },
+  "hospitalId": 2,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671162859276"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671162859276"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "639bec25c716c139f7418f6e"
+  },
+  "name": "Anisha Kumari",
+  "address": "Kolkata West BEngal",
+  "email": "skd123@gmail.com",
+  "phone": "9046402542",
+  "password": "12345678",
+  "photo": "https://classroom-training-bucket.s3.ap-south-1.amazonaws.com/Lattice/Capture1.PNG",
+  "psychiatristId": {
+    "$oid": "639be5f514492c23c997d53d"
+  },
+  "hospitalId": 2,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671162917619"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671162917619"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "639bec3fc716c139f7418f73"
+  },
+  "name": "Anish Kumar",
+  "address": "Kolkata West BEngal",
+  "email": "skd123@gmail.com",
+  "phone": "9046402543",
+  "password": "12345678",
+  "photo": "https://classroom-training-bucket.s3.ap-south-1.amazonaws.com/Lattice/Capture1.PNG",
+  "psychiatristId": {
+    "$oid": "639be5e914492c23c997d53a"
+  },
+  "hospitalId": 2,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671162943496"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671162943496"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "639bec92c716c139f7418f7f"
+  },
+  "name": "Subham",
+  "address": "Kolkata West BEngal",
+  "email": "skd123@gmail.com",
+  "phone": "9046402544",
+  "password": "12345678",
+  "photo": "https://classroom-training-bucket.s3.ap-south-1.amazonaws.com/Lattice/Capture1.PNG",
+  "psychiatristId": {
+    "$oid": "639be5e014492c23c997d537"
+  },
+  "hospitalId": 2,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671163026313"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671163026313"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "639becd5c716c139f7418f85"
+  },
+  "name": "Subham",
+  "address": "Kolkata West BEngal",
+  "email": "skd123@gmail.com",
+  "phone": "9046402545",
+  "password": "12345678",
+  "photo": "https://classroom-training-bucket.s3.ap-south-1.amazonaws.com/Lattice/Capture1.PNG",
+  "psychiatristId": {
+    "$oid": "6399e896ae4b987bf24e870f"
+  },
+  "hospitalId": 3,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671163093878"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671163093878"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "639becf3c716c139f7418f8a"
+  },
+  "name": "Subh",
+  "address": "Kolkata West BEngal",
+  "email": "skd1253@gmail.com",
+  "phone": "9046402546",
+  "password": "12345678",
+  "photo": "https://classroom-training-bucket.s3.ap-south-1.amazonaws.com/Lattice/Capture1.PNG",
+  "psychiatristId": {
+    "$oid": "6399e8a0ae4b987bf24e8712"
+  },
+  "hospitalId": 3,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671163123267"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671163123267"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "639bf8d6b556596829c70ec1"
+  },
+  "name": "Soumya dutta",
+  "address": "Kolkahhd",
+  "email": "skd123@gmail.com",
+  "phone": "9046602548",
+  "password": "12345678",
+  "photo": "https://classroom-training-bucket.s3.ap-south-1.amazonaws.com/Lattice/1656314302372.jpg",
+  "psychiatristId": {
+    "$oid": "639be5ad14492c23c997d52b"
+  },
+  "hospitalId": 4,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671166166629"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671166166629"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "639bf9c0b556596829c70ec7"
+  },
+  "name": "Taslima Khatun",
+  "address": "Kolkahhd",
+  "email": "yt123@gmail.com",
+  "phone": "9046602549",
+  "password": "12345678",
+  "photo": "https://classroom-training-bucket.s3.ap-south-1.amazonaws.com/Lattice/1656314302372.jpg",
+  "psychiatristId": {
+    "$oid": "639be5ad14492c23c997d52b"
+  },
+  "hospitalId": 4,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671166400465"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671166400465"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "639bfb3c099a5b5d0dd480a9"
+  },
+  "name": "Rahul",
+  "address": "Kolkahhd",
+  "email": "yt123@gmail.com",
+  "phone": "9046604549",
+  "password": "12345678",
+  "photo": "https://classroom-training-bucket.s3.ap-south-1.amazonaws.com/Lattice/1656314302372.jpg",
+  "psychiatristId": {
+    "$oid": "639be59914492c23c997d528"
+  },
+  "hospitalId": 4,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671166780611"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671166780611"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "639bfb57099a5b5d0dd480ae"
+  },
+  "name": "Raj",
+  "address": "Kolkahhd",
+  "email": "yt123@gmail.com",
+  "phone": "9046104549",
+  "password": "12345678",
+  "photo": "https://classroom-training-bucket.s3.ap-south-1.amazonaws.com/Lattice/1656314302372.jpg",
+  "psychiatristId": {
+    "$oid": "639be5be14492c23c997d52e"
+  },
+  "hospitalId": 4,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671166807395"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671166807395"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "639bfb70099a5b5d0dd480b3"
+  },
+  "name": "Raja",
+  "address": "Kolkahhd",
+  "email": "yt123@gmail.com",
+  "phone": "8046104549",
+  "password": "12345678",
+  "photo": "https://classroom-training-bucket.s3.ap-south-1.amazonaws.com/Lattice/1656314302372.jpg",
+  "psychiatristId": {
+    "$oid": "639be5c814492c23c997d531"
+  },
+  "hospitalId": 4,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671166832789"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671166832789"
+    }
+  }
+}]

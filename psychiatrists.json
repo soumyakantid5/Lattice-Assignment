@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "6399e896ae4b987bf24e870f"
+  },
+  "name": "partha roy",
+  "hospitalId": 3
+},{
+  "_id": {
+    "$oid": "6399e8a0ae4b987bf24e8712"
+  },
+  "name": "Atul kumar",
+  "hospitalId": 3
+},{
+  "_id": {
+    "$oid": "639be56714492c23c997d51f"
+  },
+  "name": "Atul sagar",
+  "hospitalId": 3
+},{
+  "_id": {
+    "$oid": "639be57614492c23c997d522"
+  },
+  "name": "Avinab Awasthi",
+  "hospitalId": 3
+},{
+  "_id": {
+    "$oid": "639be58414492c23c997d525"
+  },
+  "name": "Shadab Khan",
+  "hospitalId": 3
+},{
+  "_id": {
+    "$oid": "639be59914492c23c997d528"
+  },
+  "name": "Yasin Ahmed",
+  "hospitalId": 4
+},{
+  "_id": {
+    "$oid": "639be5ad14492c23c997d52b"
+  },
+  "name": "Anshu Rai",
+  "hospitalId": 4
+},{
+  "_id": {
+    "$oid": "639be5be14492c23c997d52e"
+  },
+  "name": "Suyas Chaturvedi",
+  "hospitalId": 4
+},{
+  "_id": {
+    "$oid": "639be5c814492c23c997d531"
+  },
+  "name": "Hariom Yadav",
+  "hospitalId": 4
+},{
+  "_id": {
+    "$oid": "639be5d114492c23c997d534"
+  },
+  "name": "Sahil Devgan",
+  "hospitalId": 4
+},{
+  "_id": {
+    "$oid": "639be5e014492c23c997d537"
+  },
+  "name": "Shivam Mishra",
+  "hospitalId": 2
+},{
+  "_id": {
+    "$oid": "639be5e914492c23c997d53a"
+  },
+  "name": "Shreya Singh",
+  "hospitalId": 2
+},{
+  "_id": {
+    "$oid": "639be5f514492c23c997d53d"
+  },
+  "name": "Farheena Ibrahim",
+  "hospitalId": 2
+},{
+  "_id": {
+    "$oid": "639be5fe14492c23c997d540"
+  },
+  "name": "Sonali Turale",
+  "hospitalId": 2
+},{
+  "_id": {
+    "$oid": "639be61114492c23c997d543"
+  },
+  "name": "Rahul Headu",
+  "hospitalId": 2
+},{
+  "_id": {
+    "$oid": "639be62014492c23c997d546"
+  },
+  "name": "Pritesh Kumar",
+  "hospitalId": 1
+},{
+  "_id": {
+    "$oid": "639be62914492c23c997d549"
+  },
+  "name": "Bharat Gupta",
+  "hospitalId": 1
+},{
+  "_id": {
+    "$oid": "639be63014492c23c997d54c"
+  },
+  "name": "Akash Agarwal",
+  "hospitalId": 1
+},{
+  "_id": {
+    "$oid": "639be64314492c23c997d54f"
+  },
+  "name": "Sushant Kishorre",
+  "hospitalId": 1
+},{
+  "_id": {
+    "$oid": "639be65114492c23c997d552"
+  },
+  "name": "Sabhiha Khan",
+  "hospitalId": 1
+}]
